@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=15F4EE&vCenter=true&width=685&height=20&lines=Crafting+Digital+Delights;+And+providing+solutions+for+the+Community)](https://git.io/typing-svg)
 
-<img align="right" src="./image/banner.jpg" width="27%" /> </a>
+<img align="right" src="./image/logo1.png" width="27%" /> </a>
 
 -    ⚒ We are currently working on our **Website**    
 -   💬 Ask us about **Web Developement**
