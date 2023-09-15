@@ -1,6 +1,6 @@
-# Hi There!👋 Welcome to Daedalus Solutions 
+<h1>Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> Welcome to Daedalus Solutions </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=15F4EE&vCenter=true&width=685&height=20&lines=Crafting+Digital+Delights;+And+providing+solutions+for+the+Community)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=700&color=15F4EE&vCenter=true&width=685&height=20&lines=Crafting+Digital+Delights;+and+providing+solutions+for+the+Community)](https://git.io/typing-svg)
 
 <!-- [comment]: <img alt="banner" align="center" width="100%" height="40%" src="./images/logo1.jpg" /> -->
 <!-- [comment]: <img alt="banner" align="center" width="100%" height="40%" src="./images/logo2.jpg" /> -->
@@ -13,6 +13,8 @@
 -   ⚡ Fun fact: **We love to bond with dev community** ❤️
 -   🌐 Visit our official website: [Daedalus](https://daedalus.codes) 
 -   📚 Wiki page: [Daedalus Wiki](https://wiki.daedalus.codes)
+-   📧 If you have queries email us on: **DaedalusDevPh@gmail.com**
+
 # 🌎 Connect with us:
 Come and join to our community for some exciting chats!
 <!---[![LinkedIn](https://img.shields.io/badge/name-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/name)-->
