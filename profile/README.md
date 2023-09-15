@@ -9,12 +9,12 @@
 -   🎯 Our Goal is to **Learn**, **Create**, **Build**, and **Deploy projects** 
 -   ⚡ Fun fact: **We love to bond with dev community** ❤️
 -   🌐 Visit our official website: [Daedalus](https://daedalus.codes) 
-
+-   📚 Wiki page: [Daedalus Wiki](https://wiki.daedalus.codes)
 # Connect with us:
-<!---[![LinkedIn](https://img.shields.io/badge/syntaxboybe-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syntaxboybe)-->
-<!---[![Instagram](https://img.shields.io/badge/syntaxboybe-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/syntaxboybe)-->
-<!---[![Facebook](https://img.shields.io/badge/syntaxboybe-2374E1?logo=facebook&logoColor=white)](https://www.facebook.com/syntaxboybe)-->
-<!---[![Twitter](https://img.shields.io/badge/syntaxboybe-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/syntaxboybe)-->
+<!---[![LinkedIn](https://img.shields.io/badge/name-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/name)-->
+<!---[![Instagram](https://img.shields.io/badge/name-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/name)-->
+<!---[![Facebook](https://img.shields.io/badge/name-2374E1?logo=facebook&logoColor=white)](https://www.facebook.com/name)-->
+<!---[![Twitter](https://img.shields.io/badge/name-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/name)-->
 [![Discord](https://img.shields.io/badge/daedalusdev-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/daedalusdev)
 
 ![Pasted-20230912-125513](https://github.com/daedalus-developers/.github/assets/144696210/9c9cd5da-e024-45be-a9da-bcf32793b67e)
