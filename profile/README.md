@@ -14,6 +14,7 @@
 -   🌐 Visit our official website: [Daedalus](https://daedalus.codes) 
 -   📚 Wiki page: [Daedalus Wiki](https://wiki.daedalus.codes)
 # 🌎 Connect with us:
+Come and join to our community for some exciting chats!
 <!---[![LinkedIn](https://img.shields.io/badge/name-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/name)-->
 <!---[![Instagram](https://img.shields.io/badge/name-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/name)-->
 <!---[![Facebook](https://img.shields.io/badge/name-2374E1?logo=facebook&logoColor=white)](https://www.facebook.com/name)-->
